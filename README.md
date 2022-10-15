@@ -6,3 +6,4 @@ Companies spend resources (time, money, training) to upskill and hire their work
 To Do:
 - [ ] Explore categorical relationship with label
 - [x] Explore continuous relationship with label
+- [ ] Add interactivity to charts. Example: Instead of multiple violin plots, have a drop down to determine the y axis. Then potentially tie that in with a swarm plot to the side of the violin plot
